@@ -47,7 +47,7 @@ CREATE INDEX idx_residents_city_first_name ON residents (city_id, first_name);
 Depending on your application's specific query patterns, we may need to add indexes to other columns used frequently in WHERE clauses or JOIN conditions. Evaluate your query performance and add indexes accordingly
 
 # Swagger -> http://localhost:3000/api
-![plot](./Swagger.png)
+![plot](Swagger.png)
 
 
 ## Stay in touch
